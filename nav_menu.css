@@ -1,0 +1,84 @@
+div.columns{
+    background-color: #393D5E;
+}
+body {
+    background-color: #393D5E;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #393D5E; /* Updated background color */
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111111;
+}
+p {
+    font-size: 48px;
+}
+.columns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.column {
+    flex: 1;
+    padding: 10px;
+    background-color: #f4f4f4;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+.column h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.book {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+.book h3 {
+    font-size: 18px;
+    margin: 0 0 5px 0;
+}
+.book p {
+    font-size: 14px;
+    color: #555;
+}
+.search-container {
+    float: right;
+    margin-right: 10px;
+}
+.search-container input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
+.search-container button {
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-left: 5px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.search-container button:hover {
+    background: #ccc;
+}

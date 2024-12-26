@@ -1,0 +1,107 @@
+[
+    { 
+        "title": "The Adventure Chronicles", 
+        "author": "John Carter", 
+        "description": "A thrilling tale of a young adventurer exploring uncharted lands.",
+        "Read": 2000, 
+        "Borrow": 500 
+    },
+    { 
+        "title": "Mystery of the Old Mansion", 
+        "author": "Agatha Lee", 
+        "description": "An intriguing mystery set in an ancient, abandoned mansion.",
+        "Read": 1800, 
+        "Borrow": 450 
+    },
+    { 
+        "title": "The Art of Happiness", 
+        "author": "Dr. Emily Grace", 
+        "description": "A guide to finding joy and contentment in everyday life.",
+        "Read": 2500, 
+        "Borrow": 600 
+    },
+    { 
+        "title": "Space Explorers", 
+        "author": "Michael Star", 
+        "description": "An epic journey through the cosmos with a team of astronauts.",
+        "Read": 3200, 
+        "Borrow": 750 
+    },
+    { 
+        "title": "Culinary Secrets", 
+        "author": "Chef Marcus", 
+        "description": "Discover the hidden techniques of world-class chefs.",
+        "Read": 1500, 
+        "Borrow": 400 
+    },
+    { 
+        "title": "The Silent Witness", 
+        "author": "Sophia Harris", 
+        "description": "A suspenseful crime novel about a witness who knows too much.",
+        "Read": 2700, 
+        "Borrow": 700 
+    },
+    { 
+        "title": "History Revisited", 
+        "author": "Professor Andrew Blake", 
+        "description": "An insightful look into the events that shaped our modern world.",
+        "Read": 2100, 
+        "Borrow": 550 
+    },
+    { 
+        "title": "Gardening for Beginners", 
+        "author": "Linda Green", 
+        "description": "A step-by-step guide to creating your dream garden.",
+        "Read": 1300, 
+        "Borrow": 300 
+    },
+    { 
+        "title": "The Digital Future", 
+        "author": "Alan Bright", 
+        "description": "Exploring the advancements of technology and their impact on society.",
+        "Read": 2900, 
+        "Borrow": 800 
+    },
+    { 
+        "title": "Fantasy Realms", 
+        "author": "Eleanor Woods", 
+        "description": "A captivating fantasy adventure filled with magic and mystery.",
+        "Read": 3500, 
+        "Borrow": 950 
+    },
+    { 
+        "title": "Beneath the Ocean", 
+        "author": "Sarah Lynn", 
+        "description": "Dive into the mysteries of the deep sea and its hidden secrets.",
+        "Read": 2400, 
+        "Borrow": 650 
+    },
+    { 
+        "title": "The Time Traveler", 
+        "author": "H.G. Matthews", 
+        "description": "A gripping science fiction novel about bending time and space.",
+        "Read": 2600, 
+        "Borrow": 700 
+    },
+    { 
+        "title": "The Music Within", 
+        "author": "James Melody", 
+        "description": "A heartfelt story about a musician’s journey to find his sound.",
+        "Read": 1700, 
+        "Borrow": 400 
+    },
+    { 
+        "title": "Life’s Lessons", 
+        "author": "Olivia Harper", 
+        "description": "A collection of inspiring stories and valuable life lessons.",
+        "Read": 3000, 
+        "Borrow": 850 
+    },
+    { 
+        "title": "Rising Stars", 
+        "author": "Daniel Clarke", 
+        "description": "An in-depth look at the lives of today’s most influential figures.",
+        "Read": 2200, 
+        "Borrow": 550 
+    }
+]
